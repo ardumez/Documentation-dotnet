@@ -7,3 +7,7 @@ Nous verrons deux type de Continous delivery.
 Utilisation du gestionaire de source Git
 =============================
 Nous verrons la meilleurs strategie de flux de travail a avoir pour répondre au continous delivery
+
+
+Outil de migration entity framework
+=============================
